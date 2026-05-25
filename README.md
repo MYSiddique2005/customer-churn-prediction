@@ -158,6 +158,13 @@ jupyter notebook
 
 The project also includes an interactive Streamlit web application for real-time customer churn prediction.
 
+## Live Demo
+
+Try the deployed Streamlit application here:
+
+https://customer-churn-prediction-my-2005.streamlit.app/
+
+
 ## Author
 **MOHAMMAD YASIN SIDDIQUE**
 
